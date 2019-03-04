@@ -1,0 +1,4 @@
+name = "ConstExpr"
+uuid = "c6be39a4-3ebe-11e9-28fe-e566592bf50a"
+authors = ["Nathan Daly <nhdaly@gmail.com>"]
+version = "0.0.1"
